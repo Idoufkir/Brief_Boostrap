@@ -59,3 +59,30 @@
     margin-top: 50px;
     border-radius: 2%;
 }
+
+.page8-itm1{
+
+    background-color: #E2E6EB;
+    height: 150px; 
+}
+
+.page8-itm2{
+
+    background-color: #E2E6EB;
+    height: 450px;
+
+}
+
+.itm1{
+    background-color: #E2E6EB;
+    margin-top: 300px;
+    height: 150px;
+}
+
+ #row8{
+     margin-top: -150px;
+ }
+
+ #conP8{
+     margin-top: 4%;
+ }
